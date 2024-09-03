@@ -1,5 +1,4 @@
-Github takes about 10 minutes to update after
-I push code.
+Github updates about 10 minutes after code push.
 
 film maker website:
 https://www.wix.com/website-template/view/html/2591?originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fvideo&tpClick=view_button&esi=6d9b2bd3-5f0a-4c71-8ecd-87204c842845
